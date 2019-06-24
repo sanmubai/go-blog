@@ -1,10 +1,9 @@
 # go-blog
 golang blog
 ***
-1. 命令行设置代理 https://www.cnblogs.com/sanmubai/p/10895888.html  
-2. go mod init go-blog  
-3. go mod tidy
-4. go build
+1. 命令行设置代理 https://www.cnblogs.com/sanmubai/p/10895888.html   
+2. go mod tidy
+3. go build
 
 ***
 ## 参考项目
