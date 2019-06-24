@@ -7,7 +7,7 @@ golang blog
 4. go build
 
 ***
-##参考项目
+## 参考项目
 github项目地址： https://github.com/EDDYCJY/go-gin-example  
 文档教程地址：https://segmentfault.com/a/1190000013297625
 
